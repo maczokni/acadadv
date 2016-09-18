@@ -32,9 +32,12 @@ I've compiled some usefull information for adacemic advisees here. Please let me
 ##Project management:
 
 - [Setting SMART goals](https://www.projectsmart.co.uk/smart-goals.php) 
-- Using a Gantt chart: 
+- Using a Gantt chart for time management: 
     - [Video tutorial 1](https://www.youtube.com/watch?v=rm_iWKoOd0U)
     - [Video tutorial 2](https://www.youtube.com/watch?v=ADK58IRPKh8)
+- Using Kanban for organising workflow:
+    - [What is Kanban](https://www.youtube.com/watch?v=ZYzRHH-fdf8)
+    - [How to build one](https://www.youtube.com/watch?v=WQaomFkL5jg)
 
 ##Student Frequently Asked Questions
 
